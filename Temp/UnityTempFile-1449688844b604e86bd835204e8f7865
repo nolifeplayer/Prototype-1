@@ -317,3 +317,5 @@
 /define:USE_SEARCH_ENGINE_API
 "Assets/C#Script/FollowPlayer.cs"
 "Assets/C#Script/PlayerController.cs"
+"Assets/Challenge 1/Scripts/FollowPlayerX.cs"
+"Assets/Challenge 1/Scripts/PlayerControllerX.cs"
